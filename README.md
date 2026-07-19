@@ -1,8 +1,8 @@
-# 🔥 Comprendre et configurer un firewall — Résumé de formation & mise en pratique
+# Comprendre et configurer un firewall — Résumé de formation & mise en pratique
 
 Ce dépôt rassemble mes notes personnelles suite à une formation LinkedIn Learning sur les firewalls, ainsi que les preuves de mise en pratique réalisées sur un lab virtualisé (OPNsense + FortiGate + Windows).
 
-## 📄 Contenu du dépôt
+## Contenu du dépôt
 
 | Fichier | Description |
 |---|---|
@@ -18,7 +18,7 @@ Un firewall **OPNsense** virtualisé fait l'interface entre un WAN (VMNET8, DHCP
 | LAN (VMNET6) | `10.33.0.0/24` | `10.33.0.254` | Windows 11 |
 | LAN 2 (VMNET7) | `192.168.33.0/24` | `192.168.33.254` | Windows 10 |
 
-## 📚 Structure de la formation
+## Structure de la formation
 
 | # | Partie | Statut |
 |---|---|---|
@@ -32,20 +32,20 @@ Un firewall **OPNsense** virtualisé fait l'interface entre un WAN (VMNET8, DHCP
 
 Le détail complet (points clés + captures d'écran de chaque manipulation) est disponible dans le [PDF](./Firewall_Resume_Formation.pdf).
 
-## 🛠️ Outils utilisés
+## Outils utilisés
 
 - **OPNsense** (pare-feu réseau, virtualisé)
 - **FortiGate** (pare-feu réseau, virtualisé)
 - **Windows Defender Firewall** (pare-feu logiciel)
 - VMware (VMNET6, VMNET7, VMNET8)
 
-## 🎯 Prochaines étapes
+## Prochaines étapes
 
 - [ ] VPN nomade (WireGuard)
 - [ ] VPN site à site (IPsec)
 - [ ] Portail captif
 - [ ] Scans de test (Nmap/Zenmap, Netcat)
 
-## 📬 Contact
+## Contact
 
 N'hésitez pas à ouvrir une *issue* ou à me contacter sur LinkedIn si vous avez des retours, notamment sur les certifications réseau/cybersécurité (Fortinet NSE, CCNA Security, CompTIA Security+...) — je suis en pleine réflexion sur la suite de mon parcours.
