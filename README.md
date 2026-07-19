@@ -7,8 +7,6 @@ Ce dépôt rassemble mes notes personnelles suite à une formation LinkedIn Lear
 | Fichier | Description |
 |---|---|
 | [`Firewall_Resume_Formation.pdf`](./Firewall_Resume_Formation.pdf) | Version PDF — lisible directement dans l'aperçu GitHub |
-| [`Firewall_Resume_Formation.docx`](./Firewall_Resume_Formation.docx) | Version Word éditable |
-
 ## 🖧 Topologie du lab
 
 Un firewall **OPNsense** virtualisé fait l'interface entre un WAN (VMNET8, DHCP) et deux réseaux LAN isolés :
